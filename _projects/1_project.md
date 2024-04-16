@@ -1,12 +1,21 @@
 ---
 layout: page
-title: project 1
+title: FullStory Documentation
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
+toc:
+  sidebar: left
 ---
+#### Problem
+test problem text 
+#### Solution
+#### Deliverables
+
+- brunch
+- fixie
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
