@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FullStory Documentation
-description: a project with a background image
+description: Onboarding materials for the the GoDaddy Digital Care organization
 img: assets/img/12.jpg
 importance: 1
 category: work
@@ -10,8 +10,16 @@ toc:
   sidebar: left
 ---
 #### Problem
-test problem text 
+The Godaddy Digital Care (DC) organization had been provided with licenses for the FullStory platform (a behavioral data analytics tool), but there was minimal team adoption due to a lack of knowledge around how to best use the tool and its potential value.
+
 #### Solution
+To onboard the DC writing and video teams, I created a suite of materials, including:
+
+- <strong>Documentation</strong>: I created a library of Confluence documentation that included longer-form onboarding content as well as shorter, more specific task articles targeted at filling gaps in team data that our current tools (e.g. Tableau dashboards) could not provide insight into. 
+
+- <strong>Workshops</strong>: I hosted a 
+
+
 #### Deliverables
 
 - brunch
@@ -26,7 +34,7 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
     layout: page
     title: project
-    description: a project with a background image
+    description: Onboarding the GoDaddy Digital Care organization onto the FullStory platform
     img: /assets/img/12.jpg
     ---
 
