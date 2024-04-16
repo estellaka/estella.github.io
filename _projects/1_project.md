@@ -9,21 +9,27 @@ related_publications: true
 toc:
   sidebar: left
 ---
-#### Problem
-The Godaddy Digital Care (DC) organization had been provided with licenses for the FullStory platform (a behavioral data analytics tool), but there was minimal team adoption due to a lack of knowledge around how to best use the tool and its potential value.
+### Problem
+The [GoDaddy](https://www.godaddy.com/) Digital Care (DC) organization had been provided with licenses for [FullStory](https://www.fullstory.com/) (a behavioral data analytics tool), but there was minimal team adoption due to a lack of knowledge around how to use the tool and its potential value.
 
-#### Solution
-To onboard the DC writing and video teams, I created a suite of materials, including:
+### Solution
+I created a documentation library and held both team and individual workshops onboarding the DC writing and video teams (~20 members) to the platform.  
 
-- <strong>Documentation</strong>: I created a library of Confluence documentation that included longer-form onboarding content as well as shorter, more specific task articles targeted at filling gaps in team data that our current tools (e.g. Tableau dashboards) could not provide insight into. 
+### Deliverables
 
-- <strong>Workshops</strong>: I hosted a 
+#### Tools
+FullStory, Confluence, Jira
 
+#### Documentation
+I created a Confluence library of documentation that included longer-form onboarding content, as well as shorter task articles targeted at filling gaps in team data that our current tools (e.g. Tableau Dashboards) cannot provide insight into. 
 
-#### Deliverables
+I’ve recreated some of the more generalizable documentation pieces below, as they may be useful for other FullStory users. They’ve been edited to remove confidential information, but the webpages used in examples are primarily from the [GoDaddy Help Center](https://www.godaddy.com/help)GoDaddy Help Center (our customer facing knowledge base). 
 
-- brunch
-- fixie
+- <strong>FullStory "Crash Course"</strong>: This is a short onboarding document summarizing the core functionalities of the FullStory platform. 
+
+- <strong>FullStory Tutorial - Tracking User Journeys</strong>: This article compares three built-in ways the FullStory platform provides to track user movement on websites, and proposes an alternative metric that can be built to track source traffic. 
+
+#### Workshops
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
