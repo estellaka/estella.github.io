@@ -3,7 +3,6 @@ layout: page
 title: Dialogflow Migration
 description: Enabling chatbot team transition from ES to CX
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 toc:
