@@ -21,10 +21,11 @@ Create tutorial videos demonstrating the basics of how to design conversational 
 ### Videos
 I created multiple videos for the CD team explaining how to design in CX from scratch, ES versus CX differences, what the overall migration process would look like using established team tools/processes, and specific migration examples with their existing ES flows. 
 
-I’ve included one of these videos below - it provides a high-level overview of CX concepts, and then builds out an example flow meant to help customers with DNS management. 
+I’ve included one of these videos below - it provides a high-level overview of CX concepts, and then builds out an example flow meant to help customers with DNS management.  
+
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sQcPesDUk9c" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sQcPesDUk9c" allowfullscreen=""></iframe>
 </div>
 
 ### Reporting/Documentation
