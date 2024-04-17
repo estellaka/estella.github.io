@@ -9,13 +9,13 @@ related_publications: true
 toc:
   sidebar: left
 ---
-# Problem
+## Problem
 The [GoDaddy](https://www.godaddy.com/) Digital Care (DC) organization had been provided licenses for [FullStory](https://www.fullstory.com/) (a behavioral data analytics tool), but there was minimal team adoption due to a lack of knowledge around how to use the tool and its potential value.
 
-# Solution
+## Solution
 Onboard the DC writing and video teams (19 members) to FullStory by creating a documentation library isolating specific team use cases, and hosting workshops enabling writers to set up product-specific analytics.  
 
-# Deliverables
+## Deliverables
 
 <strong>Timeline</strong>: Q1 2024
 <strong>Tools</strong>: FullStory, Confluence, Jira
