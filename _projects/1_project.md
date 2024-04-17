@@ -9,18 +9,18 @@ related_publications: true
 toc:
   sidebar: left
 ---
-## Problem
+# Problem
 The [GoDaddy](https://www.godaddy.com/) Digital Care (DC) organization had been provided licenses for [FullStory](https://www.fullstory.com/) (a behavioral data analytics tool), but there was minimal team adoption due to a lack of knowledge around how to use the tool and its potential value.
 
-## Solution
+# Solution
 Onboard the DC writing and video teams (19 members) to FullStory by creating a documentation library isolating specific team use cases, and hosting workshops enabling writers to set up product-specific analytics.  
 
-## Deliverables
+# Deliverables
 
 <strong>Timeline</strong>: Q1 2024
 <strong>Tools</strong>: FullStory, Confluence, Jira
 
-#### Documentation
+### Documentation
 I created a Confluence library of documentation (~20 articles) that included longer-form onboarding content, as well as shorter task articles targeted at filling gaps in team data that our current tools (e.g. Tableau Dashboards) cannot provide insight into. 
 
 I’ve recreated two of the more generalizable documentation pieces in the links below, as they may be useful for other FullStory users. They’ve been edited to remove confidential information, but the webpages used in examples are primarily from the [GoDaddy Help Center](https://www.godaddy.com/help) (our customer facing knowledge base). 
@@ -29,7 +29,7 @@ I’ve recreated two of the more generalizable documentation pieces in the links
 
 - <strong>FullStory Tutorial - Tracking User Journeys</strong>: This article compares three built-in ways the FullStory platform provides to track user movement on websites, and proposes an alternative metric that can be built to track source traffic. 
 
-#### Workshops
+### Workshops
 
 I hosted both individual and team workshops to onboard the team:
 
