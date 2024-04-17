@@ -15,8 +15,8 @@ The [GoDaddy](https://www.godaddy.com/) Conversational Design (CD) team was eval
 Create tutorial videos demonstrating the basics of how to design conversational flows in CX, with examples using existing flows from the GoDaddy customer support bot. Generate documentation estimating potential lift of migrating all existing ES intents, comparing possible time savings moving forward. 
 
 ## Deliverables
-<strong>Timeline</strong>: Q3 2021
-<strong>Tools</strong>: Dialogflow Essentials (ES), Dialogflow Customer Experience (CX), Miro, iMovie, OneNote
+<strong>Tools</strong>: Dialogflow Essentials (ES), Dialogflow Customer Experience (CX), Miro, iMovie, OneNote <br>
+<strong>Timeline</strong>: Q3 2021 
 
 ### Videos
 I created multiple videos for the CD team explaining how to design in CX from scratch, ES versus CX differences, what the overall migration process would look like using established team tools/processes, and specific migration examples with their existing ES flows. 
@@ -27,7 +27,7 @@ I’ve included one of these videos below - it provides a high-level overview of
 
 I generated additional reporting estimating how long the migration would take for existing major flows, with time estimates for building using both the existing CX custom payload templates versus a Chrome extension built by one of our developers. 
 
-I also created documentation highlighting current pain points the team had with ES agents, and whether migrating to CX would solve the issue. I’ve included some of the more generalizable points in the table below. Areas I feel would generate the most time savings for designers are starred. 
+I also created documentation highlighting current pain points the team had with ES agents, and whether migrating to CX would solve the issue. I’ve included some of the more generalizable points in the table below. Areas I feel would generate the most time savings for designers are starred &#11088;. 
 
 _Note: There are some differences in vocabulary between ES/CX. For example, “intent” in ES encompasses training phrases, actions, parameters, and responses, while an intent in CX has been simplified into just training phrases and parameters, making them more reusable._
 
