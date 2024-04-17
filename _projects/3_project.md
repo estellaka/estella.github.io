@@ -24,7 +24,7 @@ I created multiple videos for the CD team explaining how to design in CX from sc
 I’ve included one of these videos below - it provides a high-level overview of CX concepts, and then builds out an example flow meant to help customers with DNS management. 
 
 <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://youtu.be/sQcPesDUk9c" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://youtube.com/embed/sQcPesDUk9c" class="img-fluid rounded z-depth-1" %}
     </div>
 
 ### Reporting/Documentation
