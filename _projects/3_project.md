@@ -15,7 +15,7 @@ The [GoDaddy](https://www.godaddy.com/) Conversational Design (CD) team was eval
 Create tutorial videos demonstrating the basics of how to design conversational flows in CX, with examples using existing flows from the GoDaddy customer support bot. Generate documentation estimating potential lift of migrating all existing ES intents, comparing possible time savings moving forward. 
 
 ## Deliverables
-<strong>Tools</strong>: Dialogflow Essentials (ES), Dialogflow Customer Experience (CX), Miro, iMovie, OneNote <br>
+<strong>Tools</strong>: Dialogflow Essentials (ES)/Customer Experience (CX), Miro, iMovie, OneNote <br>
 <strong>Timeline</strong>: Q3 2021 
 
 ### Videos
@@ -42,64 +42,64 @@ _Note: This table has not been updated to reflect platform changes since 2022._
 <table class="table table-bordered">
   <thead class="thead-light">
     <tr>
-      <th scope="col">ES Pain Point</th>
-      <th scope="col">Solved by CX?</th>
+      <th scope="col" width="50%">ES Pain Point</th>
+      <th scope="col" width="50%">Solved by CX?</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Need to click to expand nested intents when designing </td>
-      <td>&#11088; Everything is automatically “expanded” due to the visual nature of CX - there is no need for clicking, all pages and their subsequent routes are displayed by default. This saves time when accessing intents. Additionally, not having nested intents makes searching for specific intents faster by allowing for easier filtering.</td>
+      <td style="background-color: #e0f0e3">&#11088; Everything is automatically “expanded” due to the visual nature of CX - there is no need for clicking, all pages and their subsequent routes are displayed by default. This saves time when accessing intents. Additionally, not having nested intents makes searching for specific intents faster by allowing for easier filtering.</td>
     </tr>
     <tr>
       <td>If your team uses visual companions to represent flows, these need to be built manually in a separate platform</td>
-      <td>The CX console user experience for is visual graphs instead of mostly text forms, potentially replacing need for secondary visual companion</td>
+      <td style="background-color: #e0f0e3">The CX console user experience for is visual graphs instead of mostly text forms, potentially replacing need for secondary visual companion</td>
     </tr>
     <tr>
       <td>Webhook responses must occur within 10 seconds for Google Assistant apps/within 5 seconds for all other apps, or request will time out </td>
-      <td>Can set custom webhook response timeouts</td>
+      <td style="background-color: #e0f0e3">Can set custom webhook response timeouts</td>
     </tr>
     <tr>
       <td>Webhooks are not typically used because they must be applied for the whole agent. Not all intents need to use webhooks.</td>
-      <td>In CX, webhooks can be applied on individual intents, so we would have the flexibility to use webhooks if we wanted to.</td>
+      <td style="background-color: #e0f0e3">In CX, webhooks can be applied on individual intents, so we would have the flexibility to use webhooks if we wanted to.</td>
     </tr>
     <tr>
       <td>ES only allows a single webhook to be defined for fulfillment</td>
-      <td>CX allows you to specify multiple fulfillment webhooks</td>
+      <td style="background-color: #e0f0e3">CX allows you to specify multiple fulfillment webhooks</td>
     </tr>
     <tr>
       <td>Test agent in ES console doesn’t showcase entirety of conversation, need to know triggers for whole flow or use </td>
-      <td>Test agent can show entire conversation, includes additional features (e.g., replay, save test cases, toggle on/off sentiment analysis, webhooks, partial response)</td>
+      <td style="background-color: #e0f0e3">Test agent can show entire conversation, includes additional features (e.g., replay, save test cases, toggle on/off sentiment analysis, webhooks, partial response)</td>
     </tr>
     <tr>
       <td>Test agent in ES console doesn’t showcase entirety of conversation, need to know triggers for whole flow or use OneNote/website test environment to keep track of test conversation</td>
-      <td>CTest agent can show entire conversation, includes additional features (e.g., replay, save test cases, toggle on/off sentiment analysis, webhooks, partial response)</td>
+      <td style="background-color: #e0f0e3">CTest agent can show entire conversation, includes additional features (e.g., replay, save test cases, toggle on/off sentiment analysis, webhooks, partial response)</td>
     </tr>
     <tr>
       <td>New/requested features will not be supported on ES</td>
-      <td>New features and functions will be supported on CX</td>
+      <td style="background-color: #e0f0e3">New features and functions will be supported on CX</td>
     </tr>
     <tr>
       <td>Time spent entering similar batches of training phrases multiple times</td>
-      <td>&#11088; Intents now only include training phrases instead of responses as well, allowing for the same intent to be used in multiple cases</td>
+      <td style="background-color: #e0f0e3">&#11088; Intents now only include training phrases instead of responses as well, allowing for the same intent to be used in multiple cases</td>
     </tr>
     <tr>
       <td>Context issues:
         - Steep initial learning curve
         - No comprehensive overview of where contexts “touch”</td>
-      <td>&#11088; CX does not use contexts, state handlers (routes/event handlers) are used to control conversational paths. Graphs show where pages connect - however, still need to click into state handlers to see which intents drive which pages.</td>
+      <td style="background-color: #cfebf9">&#11088; CX does not use contexts, state handlers (routes/event handlers) are used to control conversational paths. Graphs show where pages connect - however, still need to click into state handlers to see which intents drive which pages.</td>
     </tr>
     <tr>
       <td>Significant time spent in Excel taking note of changes to Bot</td>
-      <td>“Change History” feature being built out, currently available as preview - however, probably still not as comprehensive/easy to reference as custom Excel record</td>
+      <td style="background-color: #cfebf9">“Change History” feature being built out, currently available as preview - however, probably still not as comprehensive/easy to reference as custom Excel record</td>
     </tr>
     <tr>
       <td>Need to export all content whenever publishing, potentially overriding content that is currently being worked on</td>
-      <td>No, the same issue remains. Additionally, in CX, the export would be in a proprietary file format that we wouldn’t be able to modify like we can with the zip files in ES. </td>
+      <td style="background-color: #f9cfd6">No, the same issue remains. Additionally, in CX, the export would be in a proprietary file format that we wouldn’t be able to modify like we can with the zip files in ES. </td>
     </tr>
     <tr>
       <td>Need to use payloads for buttons/other rich responses, cannot see these in Dialogflow environment</td>
-      <td>No, the same issue remains.</td>
+      <td style="background-color: #f9cfd6">No, the same issue remains.</td>
     </tr>
   </tbody>
 </table>

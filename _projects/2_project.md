@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GoDaddy Payments Onboarding
+title: GoDaddy Payments Documentation
 description: Improving the onboarding experience for payments customers
 img: assets/img/3.jpg
 importance: 2
@@ -9,6 +9,12 @@ giscus_comments: true
 toc:
   sidebar: left
 ---
+I write and maintain articles in GoDaddy’s customer knowledge base (the [GoDaddy Help Center](https://www.godaddy.com/help)) for their GoDaddy Payments (GDP) product. There are over 200 GDP articles, driving 200k+ views annually. I’ve included some sample articles of varying types below!
+
+## Onboarding
+
+<iframe src="https://www.godaddy.com/help/which-godaddy-payments-options-will-enhance-my-business-41824">
+</iframe>
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
@@ -23,17 +29,7 @@ To give your project a background in the portfolio page, just add the img tag to
     img: /assets/img/12.jpg
     ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
