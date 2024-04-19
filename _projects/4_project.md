@@ -1,11 +1,14 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: indesign samples
+description: Text design samples using Adobe InDesign
+img: assets/img/indesign.jpg
+importance: 4
+category: others
 ---
+
+{% include figure.liquid loading="eager" path="assets/img/brochure1.jpg" class="img-fluid rounded z-depth-1" %} {% include figure.liquid loading="eager" path="assets/img/brochure2.jpg" class="img-fluid rounded z-depth-1" %} {% include figure.liquid loading="eager" path="assets/img/brochure3.jpg" class="img-fluid rounded z-depth-1" %} {% include figure.liquid loading="eager" path="assets/img/brochure4.jpg" class="img-fluid rounded z-depth-1" %} {% include figure.liquid loading="eager" path="assets/img/brochure5.jpg" class="img-fluid rounded z-depth-1" %}
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

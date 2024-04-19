@@ -2,7 +2,7 @@
 layout: page
 title: FullStory Onboarding
 description: Created for the GoDaddy Digital Care organization
-img: assets/img/fslogo.jpg
+img: assets/img/fullstory.jpg
 importance: 1
 category: work
 related_publications: true

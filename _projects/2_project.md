@@ -1,79 +1,28 @@
 ---
 layout: page
-title: GoDaddy Payments Documentation
-description: Improving the onboarding experience for payments customers
-img: assets/img/3.jpg
+title: GoDaddy Payments Content
+description: Knowledge base content for GoDaddy Payments
+img: assets/img/godaddy.jpg
 importance: 2
 category: work
 giscus_comments: true
 toc:
   sidebar: left
 ---
-I write and maintain articles in GoDaddy’s customer knowledge base (the [GoDaddy Help Center](https://www.godaddy.com/help)) for their GoDaddy Payments (GDP) product. There are over 200 GDP articles, driving 200k+ views annually. I’ve included some sample articles of varying types below!
+I write and maintain articles in GoDaddy’s customer knowledge base (the [GoDaddy Help Center](https://www.godaddy.com/help)) for their GoDaddy Payments (GDP) product. There are over 200 GDP articles, driving 200k+ views annually. I’ve included some sample articles of varying types below. 
+
+_Note_: This content is available online to U.S. and Canadian markets only - I've included links to PDFs if you cannot open the links in your region.
+
+## Informational
+**GoDaddy Payments Product Comparison**: This is a summary of all GDP offerings, meant to help customers choose what payments option is right for their business. [Live Site](https://www.godaddy.com/help/which-godaddy-payments-options-will-enhance-my-business-41824) | [PDF](https://drive.google.com/file/d/11BPOAB8BKIrH9MblOyYmcc2oMD6MwOA3/view?usp=sharing)
 
 ## Onboarding
+**GoDaddy Payments Onboarding Guide**: This is an end-to-end onboarding guide for GDP that walks customers through high-level set up steps and links them to the content they need. [Live Site](https://www.godaddy.com/help/godaddy-payments-onboarding-guide-42056) | [PDF](https://drive.google.com/file/d/1rES8bBwYGFGej5qgv58FjoQv8aXV2TiL/view?usp=sharing)
 
-<iframe src="https://www.godaddy.com/help/which-godaddy-payments-options-will-enhance-my-business-41824">
-</iframe>
+## How-To
+**Manage inventory on your GoDaddy smart terminal**: This task article instructs customers how to view and manage inventory through the Register and Catalog apps of their smart terminal. [Live Site](https://www.godaddy.com/help/manage-inventory-on-your-godaddy-smart-terminal-41966) | [PDF](https://drive.google.com/file/d/1526kby4tBwOVh9QbBDQZRJVcKr-Zej7A/view?usp=sharing)
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Using Online Pay Links**: This task article teaches customers how to create and share Online Pay Links. [Live Site](https://www.godaddy.com/help/using-online-pay-links-40624) | [PDF](https://drive.google.com/file/d/1CNsCQi_Ka0WKsBuTjozUlKVuSgKCjCGE/view?usp=sharing)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+## FAQ
+**What happens when I connect my domain to Online Pay Links?**: This covers frequently asked questions related to connecting a domain to Online Pay Links. [Live Site](https://www.godaddy.com/help/what-happens-when-i-connect-my-domain-to-online-pay-links-41122) | [PDF](https://drive.google.com/file/d/1RCPXH9EmbZXwTQCGXqeqC4g7kRhmWt0u/view?usp=sharing)

@@ -2,7 +2,7 @@
 layout: page
 title: Dialogflow Migration
 description: Enabling chatbot team transition from ES to CX
-img: assets/img/7.jpg
+img: assets/img/dialogflow.jpg
 importance: 3
 category: work
 toc:
@@ -15,8 +15,8 @@ The [GoDaddy](https://www.godaddy.com/) Conversational Design (CD) team was eval
 Create tutorial videos demonstrating the basics of how to design conversational flows in CX, with examples using existing flows from the GoDaddy customer support bot. Generate documentation estimating potential lift of migrating all existing ES intents, comparing possible time savings moving forward. 
 
 ## Deliverables
-<strong>Tools</strong>: Dialogflow Essentials (ES)/Customer Experience (CX), Miro, iMovie, OneNote <br>
-<strong>Timeline</strong>: Q3 2021 
+**Tools**: Dialogflow Essentials (ES)/Customer Experience (CX), Miro, iMovie, OneNote <br>
+**Timeline**: Q3 2021 
 
 ### Videos
 I created multiple videos for the CD team explaining how to design in CX from scratch, ES versus CX differences, what the overall migration process would look like using established team tools/processes, and specific migration examples with their existing ES flows. 
