@@ -8,7 +8,7 @@ category: others
 toc:
   sidebar: left
 ---
-Below are some text design projects I created using Adobe InDesign. 
+Below are some text design projects I created with Adobe InDesign. 
 
 ## Pamphlet: Graduate Programs 
 
@@ -41,20 +41,17 @@ This is a pamphlet created to advertise the graduate programs available at Carne
         {% include figure.liquid loading="eager" path="assets/img/booklet4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<br>
 
 ## Infographic: ACEs
 
-These infographics informs readers of the negative outcomes of ACEs (Adverse Childhood Events) and how to minimize these effects. 
+These infographics were created to inform readers of the negative outcomes of ACEs (Adverse Childhood Events) and how to minimize these effects. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ace1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+        <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ace2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -64,4 +61,8 @@ These infographics informs readers of the negative outcomes of ACEs (Adverse Chi
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ace3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+        <div class="col-sm mt-3 mt-md-0">
+    </div>
 </div>
+
+
