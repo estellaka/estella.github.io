@@ -19,4 +19,4 @@ Hi! I'm Estella. I write digital payments documentation for the Digital Guidance
 
 Prior to moving to the U.S., I grew up moving between Singapore, Jakarta and Karuizawa. In my free time, I love reading, travelling, and trying new restaurants (and ranking them on Beli)! 
 
-Feel free to reach out at [estellakarunia@gmail.com](estellakarunia@gmail.com)! 
+Feel free to reach out at estellakarunia[at]gmail[dot]com!

@@ -5,7 +5,7 @@ description: Created for the GoDaddy Digital Care organization
 img: assets/img/fullstory.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 toc:
   sidebar: left
 ---
@@ -36,15 +36,15 @@ I created a Confluence library of documentation (~20 articles) that included lon
 
 I’ve recreated two of the more generalizable documentation pieces in the links below, as they may be useful for other FullStory users. They’ve been edited to remove confidential information, but the webpages used in examples are primarily from the [GoDaddy Help Center](https://www.godaddy.com/help) (our customer facing knowledge base). 
 
-- <strong>FullStory "Crash Course"</strong>: This onboarding document summarizes the core functionalities of the FullStory platform with example use cases.
+- **FullStory "Crash Course"**: This onboarding document summarizes the core functionalities of the FullStory platform with example use cases. [View PDF](https://drive.google.com/file/d/1nUQxo3QVPYqBzwanfjgYnAWBLxmJYYyR/view?usp=sharing)
 
-- <strong>FullStory Tutorial - Tracking User Journeys</strong>: This article compares three built-in ways the FullStory platform provides to track user movement on websites, and proposes an alternative metric that can be built to track source traffic. 
+- **FullStory Tutorial - Tracking User Journeys**: This article compares three built-in ways the FullStory platform provides to track user movement on websites, and proposes an alternative metric that can be built to track source traffic. [View PDF](https://drive.google.com/file/d/17UEV1MwRo1ny_HJNnru-fUHXDJbb0uji/view?usp=sharing)
 
 ### Workshops
 
 I hosted both individual and team workshops to onboard the team:
 
--  <strong>Team</strong>: Our team kick-off workshop revolved around each writer building FullStory Dashboards for their respective "product pages" (listings of key help articles pertaining to a certain product). The team had historically struggled to keep contact rate for product pages down, and our existing data toolkit did not provide insight into customer activity on those pages. To tackle this, I created a "Starter Kit" of instructions that writers could use to uncover information such as chatbot interaction, search activity, and click/scroll maps. 
+-  **Team**: Our team kick-off workshop revolved around each writer building FullStory Dashboards for their respective "product pages" (listings of key help articles pertaining to a certain product). The team had historically struggled to keep contact rate for product pages down, and our existing data toolkit did not provide insight into customer activity on those pages. To tackle this, I created a "Starter Kit" of instructions that writers could use to uncover information such as chatbot interaction, search activity, and click/scroll maps. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -58,4 +58,4 @@ I hosted both individual and team workshops to onboard the team:
     </div>
 </div>
 
--  <strong>Individual</strong>: I set up FullStory Dashboards for multiple individual product owners to address high-contact areas of their content set, and held one-on-one sessions to help them recreate and expand these analytics. 
+-  **Individual**: I set up FullStory Dashboards for multiple individual product owners to address high-contact areas of their content set, and held one-on-one sessions to help them recreate and expand these analytics. 

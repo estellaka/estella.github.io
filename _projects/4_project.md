@@ -12,7 +12,7 @@ Below are some text design projects I created with Adobe InDesign.
 
 ## Pamphlet: Graduate Programs 
 
-This is a pamphlet created to advertise the graduate programs available at Carnegie Mellon's Dietrich College of Humanities and Social Sciences. 
+This pamphlet was created to advertise the graduate programs available at Carnegie Mellon's Dietrich College of Humanities and Social Sciences. 
 
 
 <div class="row">
