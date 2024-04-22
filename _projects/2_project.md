@@ -9,7 +9,19 @@ giscus_comments: false
 toc:
   sidebar: left
 ---
-I write and maintain articles in GoDaddy’s customer knowledge base (the [GoDaddy Help Center](https://www.godaddy.com/help)) for their GoDaddy Payments (GDP) product. There are over 200 GDP articles, driving 200k+ views annually. I’ve included some sample articles of varying types below. 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/gdp2.jpg" title="doc excerpt 1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/gdp1.jpg" title="doc excerpt 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/gdp3.jpg" title="doc excerpt 3" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+I write and maintain articles in GoDaddy’s customer knowledge base (the [GoDaddy Help Center](https://www.godaddy.com/help)) for the GoDaddy Payments (GDP) product. There are over 200 GDP articles, driving 200k+ views annually. I’ve included some sample articles of varying types below. 
 
 _Note_: This content is available online to U.S. and Canadian markets only - I've included links to PDFs if you cannot open the links in your region. <br>
 
