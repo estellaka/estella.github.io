@@ -70,10 +70,6 @@ _Note: This table has not been updated to reflect platform changes since 2022._
       <td style="background-color: #77DD77">CX allows you to specify multiple fulfillment webhooks</td>
     </tr>
     <tr>
-      <td>Test agent in ES console doesn’t showcase entirety of conversation, need to know triggers for whole flow or use </td>
-      <td style="background-color: #77DD77">Test agent can show entire conversation, includes additional features (e.g., replay, save test cases, toggle on/off sentiment analysis, webhooks, partial response)</td>
-    </tr>
-    <tr>
       <td>Test agent in ES console doesn’t showcase entirety of conversation, need to know triggers for whole flow or use OneNote/website test environment to keep track of test conversation</td>
       <td style="background-color: #77DD77">CX test agent can show entire conversation, includes additional features (e.g., replay, save test cases, toggle on/off sentiment analysis, webhooks, partial response)</td>
     </tr>
