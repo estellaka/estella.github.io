@@ -48,7 +48,7 @@ I hosted both individual and team workshops to onboard the team:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/starterkit1.jpg" title="kit excerpt 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/starterkit4.jpg" title="kit excerpt 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/starterkit2.jpg" title="kit excerpt 2" class="img-fluid rounded z-depth-1" %}
